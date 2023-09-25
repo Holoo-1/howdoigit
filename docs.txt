@@ -1,1 +1,2 @@
 write good code
+use tabs, not spaces
